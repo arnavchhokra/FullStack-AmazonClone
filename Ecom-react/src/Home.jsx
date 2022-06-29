@@ -14,10 +14,15 @@ function Home() {
         <div className="home_row">
           <Product />
           <Product />
+        </div>
+        <div className="home_row">
+          <Product />
+          <Product />
           <Product />
         </div>
-        <div className="home_row"></div>
-        <div className="home_row"></div>
+        <div className="home_row">
+          <Product />
+        </div>
       </div>
     </div>
   );
